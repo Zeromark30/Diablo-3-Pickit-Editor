@@ -70,6 +70,9 @@
       'crossbow',
       'hand-crossbow',
       'wand',
+      'phylactery',
+      'scythe-1h',
+      'scythe-2h'
       // 'blacksmith-plan', //exclude
       // 'jeweler-design', //exclude
       // 'page-of-training', //exclude
